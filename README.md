@@ -1,7 +1,7 @@
 
 
 ---
-
+##### apparently this repo was mentioned on 4chan, I actually made this rutarel thing go viral on that tiktok video
 # ANOMALOUS “RUTAREL” Project
 
 It went viral on TikTok because when you ask google what it is, it just chooses a random word or doesn't answer
