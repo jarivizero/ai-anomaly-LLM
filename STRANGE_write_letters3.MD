@@ -2,6 +2,14 @@ Context: I asked it to write " a " 2000 times and then it spat out stuff about i
 I then asked it to remember what I was talking about beforehand as if I even was talking about image compression.  
 
 It weirdly looks like a recent request to ask it how to work compression, and it spat it out to me instead?  
+
+So I said "What was my exact query of this topic?"  
+It says "my image output using browsershot is 1mb, anyway to reduce it?"  
+This can easily be a hallucination or random output, so I EDITED the original message so it can't remember or go off what was just said.  
+"Finish the sentence 'my image output using browsersh'"  
+It answered the exact sentence from earlier, that does not happen randomly, it was in it's memory.  
+I encourage you to try this out aswell, edit the message before it said what seems like a hallucinated prompt.  
+
 Maybe it is a quirk of how it works but you will never know.  
 
 SO, if you are the user googling these problems, you will find this, and it will be the top result based on your query LET US KNOW.  
